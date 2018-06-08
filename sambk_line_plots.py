@@ -19,3 +19,5 @@ df['DocumentCount'] = 1
 df.loc[df['DocumentYear'] == 2014]
 
 df['DocumentMonth'].hist(bins = 20, facecolor = 'gray')
+
+#Need to add all plots together
